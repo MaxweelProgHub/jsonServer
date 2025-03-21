@@ -1,8 +1,8 @@
 {
-  "nome": "João Silva",
-  "idade": 30,
-  "cidade": "São Paulo",
-  "profissao": "Desenvolvedor",
+  nome: "João Silva",
+  idade: 30,
+  cidade: "São Paulo",
+  profissao: "Desenvolvedor",
   "hobbies": ["leitura", "futebol", "viagens"],
   "contato": {
     "email": "joao.silva@email.com",
