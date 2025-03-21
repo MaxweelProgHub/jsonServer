@@ -1,0 +1,12 @@
+{
+  "nome": "João Silva",
+  "idade": 30,
+  "cidade": "São Paulo",
+  "profissao": "Desenvolvedor",
+  "hobbies": ["leitura", "futebol", "viagens"],
+  "contato": {
+    "email": "joao.silva@email.com",
+    "telefone": "(11) 98765-4321"
+  },
+  "ativo": true
+}
