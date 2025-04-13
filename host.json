@@ -1,64 +1,17 @@
-{
-  "produtos": [
-    {
-      "nome": "Smartphone XYZ",
-      "descricao": "Smartphone com tela AMOLED de 6.5 polegadas, 128GB de armazenamento, 8GB de RAM e câmera tripla de 48MP.",
-      "preco": 1999.99,
-      "disponivel": true,
-      "categoria": "Eletrônicos",
-      "detalhes": {
-        "marca": "TechBrand",
-        "cor": "Preto",
-        "peso": "180g"
-      }
-    },
-    {
-      "nome": "Cafeteira Elétrica",
-      "descricao": "Cafeteira automática com capacidade para 1 litro, filtro reutilizável e função de manter aquecido.",
-      "preco": 249.90,
-      "disponivel": true,
-      "categoria": "Eletrodomésticos",
-      "detalhes": {
-        "marca": "CaféMais",
-        "cor": "Inox",
-        "peso": "1.2kg"
-      }
-    },
-    {
-      "nome": "Tênis Esportivo Runner",
-      "descricao": "Tênis leve com amortecimento em gel, ideal para corridas e atividades físicas.",
-      "preco": 349.00,
-      "disponivel": false,
-      "categoria": "Calçados",
-      "detalhes": {
-        "marca": "SportLife",
-        "cor": "Azul",
-        "tamanho": "42"
-      }
-    },
-    {
-      "nome": "Mochila Executiva",
-      "descricao": "Mochila com compartimento para notebook de até 15 polegadas, resistente à água e com entrada USB.",
-      "preco": 179.90,
-      "disponivel": true,
-      "categoria": "Acessórios",
-      "detalhes": {
-        "marca": "UrbanBag",
-        "cor": "Cinza",
-        "peso": "800g"
-      }
-    },
-    {
-      "nome": "Fritadeira Air Fryer",
-      "descricao": "Fritadeira sem óleo com capacidade de 4 litros, controle de temperatura e timer digital.",
-      "preco": 499.99,
-      "disponivel": true,
-      "categoria": "Eletrodomésticos",
-      "detalhes": {
-        "marca": "CookHealthy",
-        "cor": "Preto",
-        "peso": "4.5kg"
-      }
-    }
-  ]
-}
+[
+  {
+    "preco_mzn": 145,
+    "dimas": "210 + 21 💎",
+    "jogo": "Free Fire"
+  },
+  {
+    "preco_mzn": 250,
+    "dimas": "510 + 53 💎",
+    "jogo": "Free Fire"
+  },
+  {
+    "preco_mzn": 500,
+    "dimas": "2240 + 220 💎",
+    "jogo": "Free Fire"
+  }
+]
